@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.0.37:3306/testDB?serverTimezone=Asia/Seoul
+    username: duckeat
+    password: 6024
+    
+ 
